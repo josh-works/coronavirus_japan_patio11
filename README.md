@@ -12,6 +12,11 @@ Patrick _usually_ [tweets his thoughts](https://twitter.com/patio11/) but becaus
 
 This will be necessarily a bit wandering, because at times it seems that Patrick starts a thread without finishing it, only to pick it up a few weeks later, in which his conclusion makes perfect sense _if you've got the context from when he started the thread weeks prior_. 
 
+> Why are _you_ qualified to do this, Josh?
+
+1. Most of what Patrick has tweeted has caused me to nod, and think _he said that so well, and poignantly, dancing a line of "saying things without saying things"_
+2. Reporters who have not been reading him for the last few years will need to get up to speed in less than "a few years", I hope that this document might help.
+
 Explicitly, this document started today, 2020-04-27 2:40p Mountain Time because of [this tweet](https://twitter.com/patio11/status/1254856324950528001?s=20)
 
 ---------------------------------
@@ -48,6 +53,7 @@ I started this doc because of [this tweet](https://twitter.com/patio11/status/12
 > 
 > Can you crowdsource an organized document of that, to help folks get to speed?
 
-I'm starting this as a _possible_ starting point for that collaboration, but I have no expectation that this be the "finished product". I write a lot of software, and when someone says "organized document" and "crowdsourced" I thinkg github.
+I'm starting this as a _possible_ starting point for that collaboration, but I have no expectation that this be the "finished product". I write a lot of software, and when someone says "organized document" and "crowdsourced" I think "Github!".
 
-I could see this immediately becomeing a mess of PRs with merge conflicts if many folks get involved, so I'd rather work on this in close collaboration with at max two or three others, who will have merge access to the doc, and don't need me to deal with PRs. If interested, could you send me an email? my email address is easy to find. 
+I could see this immediately becomeing a mess of PRs with merge conflicts if many folks get involved, so I'd rather work on this in close collaboration with at max two or three others, who will have merge access to the doc, and don't need me to deal with PRs. If you're interested, could you send me an email? my email address is easy to find. I'll make you a collaborator on the repo. Or Google doc. 
+
