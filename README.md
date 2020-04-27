@@ -1,5 +1,4 @@
-
-
+### A Guide to helping reporters get up to speed on coronavirus in Japan, with links to authoritative sources
 
 Patrick McKenzie lives in Japan, and has shared _lots_ of information on how the Conoravirus has affected Japan. 
 
@@ -19,7 +18,7 @@ Explicitly, this document started today, 2020-04-27 2:40p Mountain Time because 
 
 ### Broadly, sections that should exist in this document:
 
-- Timeline of things happening in Japan
+- Timeline of things happening in Japan (currently working off https://www.kalzumeus.com/2020/04/21/japan-coronavirus/#a-brief-timeline-of-the-last-30-days)
 - Patrick's specific interventions in circulating [this whitepaper](https://rentry.co/covid19-japan-mr)
 - Why patrick's [write-up and "pre-registered result"](https://www.kalzumeus.com/2020/04/21/japan-coronavirus/) of the above white paper is so important
 
@@ -31,18 +30,11 @@ Explicitly, this document started today, 2020-04-27 2:40p Mountain Time because 
 
 
 
+### List of all linked sources
 
-
-
-
-
-
-
-
-
-
-
-
+- Patrick McKenzie [twitter](https://twitter.com/patio11), [personal website](https://www.kalzumeus.com)
+- [NYT: Japan's Virus Success Has Puzzled the World. Is Its Luck Running Out?](https://www.nytimes.com/2020/03/26/world/asia/japan-coronavirus.html)
+- Tyler Cowen at George Mason University: [The coronavirus situation in Japan is probably much worse than you think](https://marginalrevolution.com/marginalrevolution/2020/03/the-coronavirus-situation-in-japan-is-probably-much-worse-than-you-think.html)
 
 
 
@@ -58,4 +50,4 @@ I started this doc because of [this tweet](https://twitter.com/patio11/status/12
 
 I'm starting this as a _possible_ starting point for that collaboration, but I have no expectation that this be the "finished product". I write a lot of software, and when someone says "organized document" and "crowdsourced" I thinkg github.
 
-I could see this immediately becomeing a mess of PRs with merge conflicts if many folks get involved, so I'd rather work on this in close collaboration with at max two or three others, who will be 
+I could see this immediately becomeing a mess of PRs with merge conflicts if many folks get involved, so I'd rather work on this in close collaboration with at max two or three others, who will have merge access to the doc, and don't need me to deal with PRs. If interested, could you send me an email? my email address is easy to find. 
