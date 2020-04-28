@@ -42,6 +42,8 @@ From [An update on a pre-registered result about the coronavirus](https://www.ka
 
 A brief timeline of the last ~30 days
 
+_Note from Josh: I'll be summarizing portions of what I'm quoting below. My summaries will be italicized, with every section linking to the relevant section in Patrick McKenzie's post. I suggest reading the original source, of course_
+
 Here is a brief recap of an extremely fluid situation, for the convenience of readers who have not kept up with it. The March 22nd and March 25th entries are not widely known.
 
 **Thursday March 19th**: The NHK panel of experts outlines the national consensus on the coronavirus situation, what the plan is, and what the risk factors to the plan are. Archived [in Japanese](media.kalzumeus.com/covid-19/nhk-panel-of-experts-03192020.pdf) and [in English](media.kalzumeus.com/covid-19/nhk-panel-of-experts-03192020-english.pdf). (This is an unofficial translation commissioned from an unaffiliated commercial translation agency.)
