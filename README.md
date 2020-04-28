@@ -29,7 +29,7 @@ Explicitly, this document started today, 2020-04-27 2:40p Mountain Time because 
 - current/recent happenings, as they tie in to events in Japan of March/April
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Japan Medical Association calls for extending the nationwide state of emergency past its original one month timeline (through May 6). Justification: have not achieved hoped-for level of reduction in cases / growth of cases.<a href="https://t.co/lZVH2hEyBU">https://t.co/lZVH2hEyBU</a></p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/1255091445418979330?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Japan Medical Association calls for extending the nationwide state of emergency past its original one month timeline (through May 6). Justification: have not achieved hoped-for level of reduction in cases / growth of cases.<a href="https://t.co/lZVH2hEyBU">https://t.co/lZVH2hEyBU</a></p>&mdash; Patrick McKenzie (@patio11) <a href="https://twitter.com/patio11/status/1255091445418979330?ref_src=twsrc%5Etfw">April 28, 2020</a></blockquote> 
 
 
 
